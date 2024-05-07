@@ -98,18 +98,6 @@
       "correctAnswer": 1
     },
     {
-      "id": 3,
-      "topicId": 1,
-      "question": "Thẻ nào dùng để xuống dòng trong HTML?:",
-      "answers": [
-        "<enter>",
-        "<br>",
-        "<break>",
-        "<ib>"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": 4,
       "topicId": 1,
       "question": "Mã HTML nào thực hiện việc thêm màu nền cho trang web?",
